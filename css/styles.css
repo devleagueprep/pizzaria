@@ -1,0 +1,119 @@
+bbody {
+	font-family: 'Hammersmith One', sans-serif;
+
+}
+  
+#background{
+	background-image: url("http://static2.bigstockphoto.com/thumbs/3/4/4/large1500/44341411.jpg");
+ 
+}
+#content{
+
+  
+
+}
+
+#name{
+	color: white;
+	font-size: 60px;
+	text-align: center;
+	text-shadow: 2px 2px 4px red;
+}
+#name:active{
+  color:pink;
+}
+
+#tagline{
+
+font-family: Bebas Neue;
+text-align: center;
+color: white;
+    text-shadow: 2px 2px 4px black;
+}
+
+
+#topMenu{
+	color: white;
+ 
+  text-align: center;
+}
+
+#today{
+  color:red;
+  text-align:center;
+}
+
+li{
+  display:inline;
+  margin: 20px
+}
+
+a:link{
+  color:white;
+}
+
+
+}
+.sectionTitle{
+	text-align: center;
+	color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.pizzaName{
+	
+  	color: green;
+  	font-size: 20px
+    text-shadow: 2px 2px 4px #000000;
+	text-align: center;
+	border: 6px solid white;
+    
+	
+
+
+}
+
+.description{
+	background-image: url(https://previews.123rf.com/images/letyg84/letyg841403/letyg84140300014/26602626-Graphic-design-with-the-colors-of-the-Italian-flag-Stock-Vector.jpg)
+	text-align:center;
+	padding-left: 75px;
+	padding-right: 75px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: white;
+}
+.description:hover{
+  color:red;
+}
+
+.price{
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+	text-align: center;
+}
+#pizzaImg{
+	text-align: left;
+	height: 215px;
+	width: 250px,
+
+
+}
+
+
+
+
+
+#subscribe{
+	text-align: center;
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+	padding-bottom: 25px;
+
+}
+
+.pizzaName>img{
+  width:50px;
+ 
+}
+
+
